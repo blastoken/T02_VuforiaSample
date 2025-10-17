@@ -1,11 +1,11 @@
-T02_VuforiaSample
+# T02_VuforiaSample
 
-Descripción:
+## Descripción:
 
-Versión Unity:
+## Versión Unity:
 
-Plataformas:
+## Plataformas:
 
-Plugins:
+## Plugins:
 
-Asset Store:
+### Asset Store:
