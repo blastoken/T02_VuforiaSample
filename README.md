@@ -2,7 +2,7 @@
 
 ## Descripción:
 
-## Versión Unity:
+## Versión Unity: 2022.3.62f2
 
 ## Plataformas:
   - Android:
