@@ -5,6 +5,10 @@
 ## Versión Unity:
 
 ## Plataformas:
+  - Android:
+    - SDK:
+      - NDK
+      - SDK
 
 ## Plugins:
 
