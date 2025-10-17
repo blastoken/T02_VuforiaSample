@@ -2,7 +2,6 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-.vsconfig
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
@@ -98,3 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Visual Studio Code workspace settings
+.vscode/
+.vsconfig
